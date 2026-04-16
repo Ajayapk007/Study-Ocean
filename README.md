@@ -2,13 +2,7 @@
 <div align="center">
 <h1>StudyNotion: The Ed-Tech Platform</h1>
  </div>
- 
- 
- 
--->
-<hr>
- 
-<hr>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
